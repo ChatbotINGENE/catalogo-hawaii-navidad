@@ -7,7 +7,7 @@ const CATALOGO = [
   "nombre": "Cajita 6 Esferas Rayadas 8 cm",
   "medida": "8 cm",
   "piezas": 6,
-  "ahorro": 27,
+  "ahorro": 36,
   "desc": "6 esferas de 8 cm, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -15,8 +15,8 @@ const CATALOGO = [
     "interno": "51311914",
     "color": "Rojo",
     "regular": 5.5,
-    "preventa": 4.0,
-    "ahorro": 27,
+    "preventa": 3.5,
+    "ahorro": 36,
     "img": "img/productos/831-239-2558r.webp"
    }
   ]
@@ -26,7 +26,7 @@ const CATALOGO = [
   "nombre": "Colección 4 Esferas Brillo Clásico 10 cm",
   "medida": "10 cm",
   "piezas": 4,
-  "ahorro": 18,
+  "ahorro": 24,
   "desc": "4 esferas de 10 cm, disponible en 4 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -34,8 +34,8 @@ const CATALOGO = [
     "interno": "51312006",
     "color": "Dorado",
     "regular": 4.25,
-    "preventa": 3.5,
-    "ahorro": 18,
+    "preventa": 3.25,
+    "ahorro": 24,
     "img": "img/productos/831-xb035g.webp"
    },
    {
@@ -43,8 +43,8 @@ const CATALOGO = [
     "interno": "51312014",
     "color": "Rojo Oscuro",
     "regular": 4.25,
-    "preventa": 3.5,
-    "ahorro": 18,
+    "preventa": 3.25,
+    "ahorro": 24,
     "img": "img/productos/831-xb035gz28.webp"
    },
    {
@@ -52,8 +52,8 @@ const CATALOGO = [
     "interno": "51312014",
     "color": "Rojo",
     "regular": 4.25,
-    "preventa": 3.5,
-    "ahorro": 18,
+    "preventa": 3.25,
+    "ahorro": 24,
     "img": "img/productos/831-xb035r.webp"
    },
    {
@@ -61,8 +61,8 @@ const CATALOGO = [
     "interno": "51312017",
     "color": "Verde",
     "regular": 4.25,
-    "preventa": 3.5,
-    "ahorro": 18,
+    "preventa": 3.25,
+    "ahorro": 24,
     "img": "img/productos/831-xb035v.webp"
    }
   ]
@@ -72,7 +72,7 @@ const CATALOGO = [
   "nombre": "Esfera Individual Navideña de Felpa 15 cm",
   "medida": "15 cm",
   "piezas": 1,
-  "ahorro": 27,
+  "ahorro": 36,
   "desc": "Pieza de 15 cm, disponible en 2 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -80,8 +80,8 @@ const CATALOGO = [
     "interno": "51312114",
     "color": "Rojo",
     "regular": 5.5,
-    "preventa": 4.0,
-    "ahorro": 27,
+    "preventa": 3.5,
+    "ahorro": 36,
     "img": "img/productos/831-2788-239101375r.webp"
    },
    {
@@ -89,8 +89,8 @@ const CATALOGO = [
     "interno": "51312123",
     "color": "Rojo Felpa",
     "regular": 5.5,
-    "preventa": 4.0,
-    "ahorro": 27,
+    "preventa": 3.5,
+    "ahorro": 36,
     "img": "img/productos/831-2788-239101375xr.webp"
    }
   ]
@@ -100,7 +100,7 @@ const CATALOGO = [
   "nombre": "Gotita de Santa Brillante 24 cm",
   "medida": "24 cm",
   "piezas": null,
-  "ahorro": 31,
+  "ahorro": 37,
   "desc": "Mide 24 cm, disponible en 6 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -108,8 +108,8 @@ const CATALOGO = [
     "interno": "51312314",
     "color": "Rojo-Blanco",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423a.webp"
    },
    {
@@ -117,8 +117,8 @@ const CATALOGO = [
     "interno": "51312314",
     "color": "Rojo",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423r.webp"
    },
    {
@@ -126,8 +126,8 @@ const CATALOGO = [
     "interno": "51312317",
     "color": "Verde",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423v.webp"
    },
    {
@@ -135,8 +135,8 @@ const CATALOGO = [
     "interno": "51312302",
     "color": "Azul",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423z25.webp"
    },
    {
@@ -144,8 +144,8 @@ const CATALOGO = [
     "interno": "51312303",
     "color": "Blanco Tornasol",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423z20.webp"
    },
    {
@@ -153,8 +153,8 @@ const CATALOGO = [
     "interno": "51312306",
     "color": "Champaña",
     "regular": 4.75,
-    "preventa": 3.3,
-    "ahorro": 31,
+    "preventa": 3.0,
+    "ahorro": 37,
     "img": "img/productos/831-239-2423ch.webp"
    }
   ]
@@ -164,7 +164,7 @@ const CATALOGO = [
   "nombre": "Juego Gala Navideña 4 Esferas 10 cm",
   "medida": "10 cm",
   "piezas": 4,
-  "ahorro": 20,
+  "ahorro": 25,
   "desc": "4 esferas de 10 cm, disponible en 4 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -172,8 +172,8 @@ const CATALOGO = [
     "interno": "51312414",
     "color": "Rojo",
     "regular": 5.0,
-    "preventa": 4.0,
-    "ahorro": 20,
+    "preventa": 3.75,
+    "ahorro": 25,
     "img": "img/productos/831-239-2634r.webp"
    },
    {
@@ -181,8 +181,8 @@ const CATALOGO = [
     "interno": "51312414",
     "color": "Rojo Felpa",
     "regular": 5.0,
-    "preventa": 4.0,
-    "ahorro": 20,
+    "preventa": 3.75,
+    "ahorro": 25,
     "img": "img/productos/831-239-2634xr.webp"
    },
    {
@@ -190,8 +190,8 @@ const CATALOGO = [
     "interno": "51312417",
     "color": "Verde Oscuro Felpa",
     "regular": 5.0,
-    "preventa": 4.0,
-    "ahorro": 20,
+    "preventa": 3.75,
+    "ahorro": 25,
     "img": "img/productos/831-239-2634gr.webp"
    },
    {
@@ -199,8 +199,8 @@ const CATALOGO = [
     "interno": "51312400",
     "color": "Rojo-Verde-Dorado-Plateado",
     "regular": 5.0,
-    "preventa": 4.0,
-    "ahorro": 20,
+    "preventa": 3.75,
+    "ahorro": 25,
     "img": "img/productos/831-xb035g-26b1.webp"
    }
   ]
@@ -210,7 +210,7 @@ const CATALOGO = [
   "nombre": "Pack 4 Esferas Navidad Candy 10 cm",
   "medida": "10 cm",
   "piezas": 4,
-  "ahorro": 15,
+  "ahorro": 20,
   "desc": "4 esferas de 10 cm, disponible en 2 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -218,8 +218,8 @@ const CATALOGO = [
     "interno": "51312506",
     "color": "Dorado",
     "regular": 5.0,
-    "preventa": 4.25,
-    "ahorro": 15,
+    "preventa": 4.0,
+    "ahorro": 20,
     "img": "img/productos/831-239-2430g.webp"
    },
    {
@@ -227,8 +227,8 @@ const CATALOGO = [
     "interno": "51312502",
     "color": "Azul Rayada",
     "regular": 5.0,
-    "preventa": 4.25,
-    "ahorro": 15,
+    "preventa": 4.0,
+    "ahorro": 20,
     "img": "img/productos/831-239-2559z27.webp"
    }
   ]
@@ -238,7 +238,7 @@ const CATALOGO = [
   "nombre": "Set 12 Bolitas Nevadas 8 cm",
   "medida": "8 cm",
   "piezas": 12,
-  "ahorro": 32,
+  "ahorro": 41,
   "desc": "12 esferas de 8 cm, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -246,8 +246,8 @@ const CATALOGO = [
     "interno": "51312619",
     "color": "Perlado",
     "regular": 11.0,
-    "preventa": 7.5,
-    "ahorro": 32,
+    "preventa": 6.5,
+    "ahorro": 41,
     "img": "img/productos/831-xb022z19.webp"
    }
   ]
@@ -257,7 +257,7 @@ const CATALOGO = [
   "nombre": "Set 12 Esferas Nochebuena Multicolor 6 cm",
   "medida": "6 cm",
   "piezas": 12,
-  "ahorro": 25,
+  "ahorro": 31,
   "desc": "12 esferas de 6 cm, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -265,8 +265,8 @@ const CATALOGO = [
     "interno": "51312700",
     "color": "Rojo-Verde-Dorado",
     "regular": 4.0,
-    "preventa": 3.0,
-    "ahorro": 25,
+    "preventa": 2.75,
+    "ahorro": 31,
     "img": "img/productos/831-xb008-26b.webp"
    }
   ]
@@ -276,7 +276,7 @@ const CATALOGO = [
   "nombre": "Set 3 Bolitas Navideñas Tornasol 15 cm",
   "medida": "15 cm",
   "piezas": 3,
-  "ahorro": 25,
+  "ahorro": 31,
   "desc": "3 esferas de 15 cm, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -284,8 +284,8 @@ const CATALOGO = [
     "interno": "51312819",
     "color": "Perlado",
     "regular": 12.0,
-    "preventa": 9.0,
-    "ahorro": 25,
+    "preventa": 8.25,
+    "ahorro": 31,
     "img": "img/productos/831-xb043z19.webp"
    }
   ]
@@ -295,7 +295,7 @@ const CATALOGO = [
   "nombre": "Set 4 Bolitas Navideñas con Detalles Dorados 10 cm",
   "medida": "10 cm",
   "piezas": 4,
-  "ahorro": 29,
+  "ahorro": 36,
   "desc": "4 esferas de 10 cm, disponible en 3 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -303,8 +303,8 @@ const CATALOGO = [
     "interno": "51312917",
     "color": "Verde-Dorado",
     "regular": 7.0,
-    "preventa": 5.0,
-    "ahorro": 29,
+    "preventa": 4.5,
+    "ahorro": 36,
     "img": "img/productos/831-239-2571c.webp"
    },
    {
@@ -312,8 +312,8 @@ const CATALOGO = [
     "interno": "51312914",
     "color": "Rojo",
     "regular": 7.0,
-    "preventa": 5.0,
-    "ahorro": 29,
+    "preventa": 4.5,
+    "ahorro": 36,
     "img": "img/productos/831-239-2571r.webp"
    },
    {
@@ -321,8 +321,8 @@ const CATALOGO = [
     "interno": "51312913",
     "color": "Dorado-Plateado",
     "regular": 7.0,
-    "preventa": 5.0,
-    "ahorro": 29,
+    "preventa": 4.5,
+    "ahorro": 36,
     "img": "img/productos/831-239-2571b.webp"
    }
   ]
@@ -332,7 +332,7 @@ const CATALOGO = [
   "nombre": "Set Suspiro Polar 10 Esferas 7 cm",
   "medida": "7 cm",
   "piezas": 10,
-  "ahorro": 29,
+  "ahorro": 40,
   "desc": "10 esferas de 7 cm, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -340,8 +340,8 @@ const CATALOGO = [
     "interno": "51313003",
     "color": "Perlado",
     "regular": 6.0,
-    "preventa": 4.25,
-    "ahorro": 29,
+    "preventa": 3.6,
+    "ahorro": 40,
     "img": "img/productos/831-xb019z19.webp"
    }
   ]
@@ -351,7 +351,7 @@ const CATALOGO = [
   "nombre": "Trinidad de Bolitas Navideñas 15 cm",
   "medida": "15 cm",
   "piezas": null,
-  "ahorro": 25,
+  "ahorro": 32,
   "desc": "Mide 15 cm, disponible en 5 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -359,8 +359,8 @@ const CATALOGO = [
     "interno": "51313106",
     "color": "Dorado",
     "regular": 11.0,
-    "preventa": 8.25,
-    "ahorro": 25,
+    "preventa": 7.5,
+    "ahorro": 32,
     "img": "img/productos/831-xb043g.webp"
    },
    {
@@ -368,8 +368,8 @@ const CATALOGO = [
     "interno": "51313114",
     "color": "Rojo",
     "regular": 11.0,
-    "preventa": 8.25,
-    "ahorro": 25,
+    "preventa": 7.5,
+    "ahorro": 32,
     "img": "img/productos/831-xb043r.webp"
    },
    {
@@ -377,8 +377,8 @@ const CATALOGO = [
     "interno": "51313117",
     "color": "Verde",
     "regular": 11.0,
-    "preventa": 8.25,
-    "ahorro": 25,
+    "preventa": 7.5,
+    "ahorro": 32,
     "img": "img/productos/831-xb043v.webp"
    },
    {
@@ -386,8 +386,8 @@ const CATALOGO = [
     "interno": "51313114",
     "color": "Rojo Oscuro",
     "regular": 11.0,
-    "preventa": 8.25,
-    "ahorro": 25,
+    "preventa": 7.5,
+    "ahorro": 32,
     "img": "img/productos/831-xb043z28.webp"
    },
    {
@@ -395,8 +395,8 @@ const CATALOGO = [
     "interno": "51313102",
     "color": "Azul",
     "regular": 11.0,
-    "preventa": 8.25,
-    "ahorro": 25,
+    "preventa": 7.5,
+    "ahorro": 32,
     "img": "img/productos/831-xb043z26.webp"
    }
   ]
@@ -406,7 +406,7 @@ const CATALOGO = [
   "nombre": "Tubito 12 Esferitas Navideñas 6 cm",
   "medida": "6 cm",
   "piezas": 12,
-  "ahorro": 25,
+  "ahorro": 31,
   "desc": "12 esferas de 6 cm, disponible en 3 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -414,8 +414,8 @@ const CATALOGO = [
     "interno": "51313206",
     "color": "Dorado",
     "regular": 4.0,
-    "preventa": 3.0,
-    "ahorro": 25,
+    "preventa": 2.75,
+    "ahorro": 31,
     "img": "img/productos/831-xb008g.webp"
    },
    {
@@ -423,8 +423,8 @@ const CATALOGO = [
     "interno": "51313214",
     "color": "Rojo",
     "regular": 4.0,
-    "preventa": 3.0,
-    "ahorro": 25,
+    "preventa": 2.75,
+    "ahorro": 31,
     "img": "img/productos/831-xb008r.webp"
    },
    {
@@ -432,8 +432,8 @@ const CATALOGO = [
     "interno": "51313217",
     "color": "Verde",
     "regular": 4.0,
-    "preventa": 3.0,
-    "ahorro": 25,
+    "preventa": 2.75,
+    "ahorro": 31,
     "img": "img/productos/831-xb008v.webp"
    }
   ]
@@ -443,7 +443,7 @@ const CATALOGO = [
   "nombre": "Tubo 12 Esferas Navideñas Pintadas 8 cm",
   "medida": "8 cm",
   "piezas": 12,
-  "ahorro": 12,
+  "ahorro": 17,
   "desc": "12 esferas de 8 cm, disponible en 11 colores, precio de preventa por empaque completo.",
   "variantes": [
    {
@@ -451,8 +451,8 @@ const CATALOGO = [
     "interno": "51313304",
     "color": "Mocha-Verde Musgo-Champaña",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022-26i.webp"
    },
    {
@@ -460,8 +460,8 @@ const CATALOGO = [
     "interno": "51313305",
     "color": "Plateado-Blanco-Azul",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022-26c.webp"
    },
    {
@@ -469,8 +469,8 @@ const CATALOGO = [
     "interno": "51313317",
     "color": "Verde",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022v.webp"
    },
    {
@@ -478,8 +478,8 @@ const CATALOGO = [
     "interno": "51313321",
     "color": "Verde Menta",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022z7.webp"
    },
    {
@@ -487,8 +487,8 @@ const CATALOGO = [
     "interno": "51313302",
     "color": "Azul",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022z25.webp"
    },
    {
@@ -496,8 +496,8 @@ const CATALOGO = [
     "interno": "51313315",
     "color": "Rosa Vintage",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022z10.webp"
    },
    {
@@ -505,8 +505,8 @@ const CATALOGO = [
     "interno": "51313314",
     "color": "Rojo Oscuro",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022z28.webp"
    },
    {
@@ -514,8 +514,8 @@ const CATALOGO = [
     "interno": "51313313",
     "color": "Plateado",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022s.webp"
    },
    {
@@ -523,8 +523,8 @@ const CATALOGO = [
     "interno": "51313306",
     "color": "Dorado",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022g.webp"
    },
    {
@@ -532,8 +532,8 @@ const CATALOGO = [
     "interno": "51313314",
     "color": "Rojo",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022r.webp"
    },
    {
@@ -541,8 +541,8 @@ const CATALOGO = [
     "interno": "51313300",
     "color": "Rojo-Verde-Dorado-Plateado",
     "regular": 6.0,
-    "preventa": 5.25,
-    "ahorro": 12,
+    "preventa": 5.0,
+    "ahorro": 17,
     "img": "img/productos/831-xb022-26b1.webp"
    }
   ]
